@@ -1,6 +1,6 @@
 # Maximiliano Antúnez
 
-**Salesforce Administrator · AI-assisted app development**
+**Salesforce Administrator · AI-assisted app development**<br>
 Mar del Plata, Argentina
 
 I spent ten years leading retail stores before moving into the Salesforce ecosystem. That background shapes how I work: I start from the day-to-day problem of the business, and then use Salesforce and AI tools to build what solves it.
@@ -20,7 +20,7 @@ Lately most of my work is building apps with AI — from the idea and the data m
 | [Store Display Control](https://github.com/maxiantunezmdq/store-display-control) | Tracks which products are on the sales floor and which are waiting to be displayed, straight from the store system's export. Works offline on a phone and helped surface stock inconsistencies. | PWA · JavaScript · XML parsing · AI-assisted development |
 | [Sales Performance Dashboard](https://github.com/maxiantunezmdq/sales-performance-dashboard) | Replaces hours of manual KPI tracking: sales vs. target, average ticket, units per ticket, salesperson ranking and store comparison. | HTML/JS · Interactive charts · AI-assisted development |
 
-*Demos use fictional data.*
+*Screens and examples use fictional data.*
 
 ## Certifications
 
@@ -40,7 +40,7 @@ Lately most of my work is building apps with AI — from the idea and the data m
 
 <br>
 
-**Salesforce Administrator · Desarrollo de aplicaciones con IA**
+**Salesforce Administrator · Desarrollo de aplicaciones con IA**<br>
 Mar del Plata, Argentina
 
 Pasé diez años liderando tiendas de retail antes de meterme en el ecosistema Salesforce. Esa experiencia marca cómo trabajo: arranco por el problema concreto del negocio y después uso Salesforce y herramientas de IA para construir lo que lo resuelve.
@@ -60,18 +60,3 @@ Pasé diez años liderando tiendas de retail antes de meterme en el ecosistema S
 
 </details>
 
-
-<!--
-**maxiantunezmdq/maxiantunezmdq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
